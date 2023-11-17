@@ -2,7 +2,7 @@ import { CloudIcon } from "@heroicons/react/24/outline";
 import GitHub from "../../public/github.svg";
 
 const Footer: React.FC = () => {
-  return (
+  // return (
   //   <div className="bg-gray-100 mt-auto">
   //     <footer className="container">
   //       <div className=" flex flex-row justify-between py-3 text-sm">
