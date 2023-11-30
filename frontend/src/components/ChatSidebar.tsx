@@ -1,4 +1,3 @@
-import DocumentDetail from "./DocumentDetail";
 import { Conversation } from "../common/types";
 import { getDateTime } from "../common/utilities";
 import { Params } from "react-router-dom";
